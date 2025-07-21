@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌐 Host Your Own Server Locally with XAMPP & Localtonet
 
 This guide helps you set up a local web server using **XAMPP** and make it publicly accessible using **Localtonet**. Perfect for beginners looking to test web apps, share demos, or receive webhooks from external services.
@@ -127,3 +128,7 @@ Feel free to submit issues or pull requests to improve this guide!
 - [Localtonet](https://localtonet.com/)
 - [Localtonet Docs](https://docs.localtonet.com/)
 - [PHP Beginner Guide](https://www.php.net/manual/en/tutorial.php)
+=======
+# Host-local-server-xampp-localtonet
+A beginner-friendly guide to hosting your local server with XAMPP and making it publicly accessible using Localtonet. Ideal for testing, demos, and learning web development basics.
+>>>>>>> 6e27f8c8e47e92ac7f71d386d5e04c9fa6aa6107
